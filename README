@@ -1,0 +1,4 @@
+== reliable_queue
+
+0.0.1: First version.
+  Queueの永続化はFileSystemのみに対応。
